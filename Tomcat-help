@@ -1,0 +1,4 @@
+Path : /Users/mohammedsali/tomcat/apache-tomcat-7.0.64
+
+Start Tomcat : Go to bin/ directory - ./startup.sh
+Stop Tomcat : Go to bin/ directory - ./shutdown.sh
