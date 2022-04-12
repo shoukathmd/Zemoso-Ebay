@@ -1,0 +1,6 @@
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-8-jdk/Contents/Home
+export PATH=$PATH:$JAVA_HOME/bin
+
+export M2_HOME=/Users/mohammedsali/Maven/apache-maven-3.8.5                     
+
+export PATH=$M2_HOME/bin:$PATH
